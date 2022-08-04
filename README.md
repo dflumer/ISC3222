@@ -1,1 +1,0 @@
-Symbolic and Numeric Computations
